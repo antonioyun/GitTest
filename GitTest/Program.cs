@@ -11,6 +11,7 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.WriteLine("이거이 이거이 테스트지");
+            Console.WriteLine("왜 없어");
         }
     }
 }
